@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className="container">
-        {/* ===== NAVBAR ===== */}
+        {/* NAVBAR */}
         <header className="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
           <a href="/" className="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
             <i className="fa-solid fa-book fa-2xl" style={{ color: 'rgb(20, 0, 255)' }}></i>
@@ -30,7 +30,7 @@ function App() {
           </div>
         </header>
 
-        {/* ===== HERO ===== */}
+        {/* HERO */}
         <div className="container my-5">
           <div className="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
             <div className="col-lg-7 p-3 p-lg-5 pt-lg-3">
@@ -47,7 +47,7 @@ function App() {
           </div>
         </div>
 
-        {/* ===== BEST SELLER ===== */}
+        {/* BEST SELLER */}
         <section className="py-5 text-center container">
           <div className="row py-lg-5">
             <div className="col-lg-6 col-md-8 mx-auto">
@@ -202,7 +202,7 @@ function App() {
           </div>
         </div>
 
-        {/* ===== BOOK ===== */}
+        {/* BOOK */}
         <section id="book" className="py-5 container">
           <h2 className="fw-light text-center mb-4">Book</h2>
           <div className="row row-cols-1 row-cols-md-3 g-4">
@@ -250,7 +250,7 @@ function App() {
           </div>
         </section>
 
-        {/* ===== TEAM ===== */}
+        {/* TEAM */}
         <section id="team" className="py-5 bg-light">
           <div className="container">
             <h2 className="fw-light text-center mb-4">Our Team</h2>
@@ -282,7 +282,7 @@ function App() {
           </div>
         </section>
 
-        {/* ===== CONTACT ===== */}
+        {/* CONTACT */}
         <section id="contact" className="py-5 container">
           <h2 className="fw-light text-center mb-4">Contact</h2>
           <div className="row g-5">
@@ -315,7 +315,7 @@ function App() {
       </div>
       {/* ↑ penutup container utama (ini yang tadi kurang) */}
 
-      {/* ===== FOOTER ===== */}
+      {/* FOOTER */}
       <div className="container">
         <footer className="pt-5 pb-3 mt-5 border-top">
           <div className="row">
